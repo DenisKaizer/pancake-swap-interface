@@ -262,6 +262,13 @@
       "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
       "chainId": 56,
       "decimals": 18
-    }
+    },
+    {
+      "name": "ROOBEE",
+      "symbol": "ROOBEE",
+      "address": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
+      "chainId": 56,
+      "decimals": 18
+    }  
   ]
 }
